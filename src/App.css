@@ -1,0 +1,30 @@
+/*
+Add styles for Todo List
+ */
+
+.todoList {
+    font-size: 1.4rem;
+    line-height: 2.5rem;
+}
+
+.todoForm {
+    margin: 1rem 0;
+}
+
+.inputStyle {
+    background-color: lightyellow;
+    font-size: 1.4rem;
+}
+
+button {
+    border:2px solid darkblue;
+    border-radius: 8px;
+    color: white;
+    background-color: cornflowerblue;
+    padding: .5rem 1rem;
+    font-size: 1.2rem;
+    width: auto;
+}
+button:hover {
+    background-color: blueviolet;
+}
